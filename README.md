@@ -28,6 +28,21 @@ We're blending psychology, design, and machine learning to help users:
 
 ---
 
+## 💡 What Inspired RareState?
+
+RareState was born out of two truths:
+
+1. We don’t always have someone to talk to.
+2. Our emotional wellbeing often slips through the cracks.
+
+As a developer with a background in civil engineering and a growing interest in mental health tech, I realized the journaling apps out there felt… passive. Pretty graphs, maybe a quote — but not much help when you’re overwhelmed at 11PM or spiraling before a big meeting.
+
+I wanted to build something that responds. That *guides*, *reflects*, and *reminds you that you're not alone*. Something that doesn’t wait for you to seek help — but meets you where you are.
+
+RareState is my response to that need. A tool I wish more people had — including me, at a few critical moments.
+
+---
+
 ## 🔍 Key Concepts
 
 * **Real-Time Coping Support:** Grounding tools and calming prompts triggered by your journal input or mood check-in.
